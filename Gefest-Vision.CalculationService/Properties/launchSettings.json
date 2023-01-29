@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Gefest_Vision.CalculationService": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
